@@ -14,6 +14,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "cowsay": "^1.6.0"
+    "cowsay": "^1.6.0",
+    "black-tea": "^1.0.0",
+    "chai-tea": "^1.0.0"
   }
 }

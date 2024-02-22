@@ -1,21 +1,22 @@
 {
-  "name": "green-tea",
+  "name": "oolong-tea",
   "version": "1.0.0",
-  "description": "Green tea brewing",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/alicans/teado.git",
-    "directory": "teas/green-tea"
-  },
+  "description": "oolong tea brewing",
   "main": "index.js",
-  "author": "alicando",
-  "license": "MIT",
   "scripts": {
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicans/teado.git",
+    "directory": "teas/oolong-tea"
+  },
+  "author": "alicando",
+  "license": "MIT",
   "dependencies": {
     "cowsay": "^1.6.0",
     "black-tea": "^1.0.0",
-    "chai-tea": "^1.0.0"
+    "chai-tea": "^1.0.0",
+    "green-tea": "^1.0.0"
   }
 }

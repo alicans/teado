@@ -15,6 +15,9 @@
   },
   "dependencies": {
     "cowsay": "^1.6.0",
-    "green-tea": "file:./teas/green-tea"
+    "black-tea": "^1.0.0",
+    "chai-tea": "^1.0.0",
+    "green-tea": "^1.0.0",
+    "oolong-tea": "^1.0.0"
   }
 }

@@ -1,6 +1,9 @@
 const roseship = require('cowsay');
 
-console.log(roseship.say({
-    text: "I am brewing",
-    f: "cowfee"
-}));
+function roseshipsay() {
+    console.log(roseship.say({
+        text: "I am brewing",
+        f: "cowfee"
+    }));
+}
+module.exports = roseshipsay;

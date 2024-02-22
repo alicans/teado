@@ -1,6 +1,9 @@
 const greentea = require('cowsay');
 
-console.log(greentea.say({
-    text: "I am brewing",
-    f: "tux"
-}));
+function greenteasay() {
+    console.log(greentea.say({
+        text: "I am brewing",
+        f: "tux"
+    }));
+}
+module.exports = greenteasay;
