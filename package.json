@@ -1,0 +1,17 @@
+{
+  "name": "teado",
+  "description": "tea brewing application",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "testing",
+    "tea",
+    "testnet"
+  ],
+  "author": "alicando",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "green-tea": "file:./green-tea"
+  }
+}
