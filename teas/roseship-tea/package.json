@@ -1,0 +1,20 @@
+{
+  "name": "roseship-tea",
+  "version": "1.0.0",
+  "description": "Roseship tea brewing",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicans/teado.git",
+    "directory": "teas/roseship-tea"
+  },
+  "main": "index.js",
+  "author": "alicando",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "green-tea": "file:./teas/green-tea"
+  }
+}

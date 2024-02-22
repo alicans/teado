@@ -12,6 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "cowsay": "^1.6.0",
-    "green-tea": "file:./green-tea"
+    "green-tea": "file:./teas/green-tea",
+    "roseship-tea": "file:./teas/roseship-tea"
   }
 }
